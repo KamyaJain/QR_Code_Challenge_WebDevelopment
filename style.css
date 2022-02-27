@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    margin: 150px 0px;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+img{
+    height: 250px;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    margin-top: 15px;
+}
+
+.main{
+    height: 400px;
+    background-color: white;
+    width: 290px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.para1{
+    font-weight: 700;
+    margin: 10px 7px;
+    padding: 0px 15px;
+}
+
+.para2{
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 10px 7px; 
+    font-size: 15px;  
+    padding: 0px 15px; 
+}
+
+@media (min-width: ){
+    body{
+        margin: auto;
+    }
+}
